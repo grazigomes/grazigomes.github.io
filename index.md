@@ -1,7 +1,7 @@
 # Welcome to Grazi Gomes Portfolio
 
 ### I am an international student from Brazil. My major is Interactive Multimedia and this is my last semester at DCCC. I hope this class helps me to build my professional portfolio as well.
-I would appreciate your feedback. Feel free to bookmark this page on [editor on GitHub](https://github.com/grazigomes/grazigomes.github.io/edit/master/index.md) to maintain and preview the content for this website in Markdown files.
+
 ![Grazi](profile.JPG)
 
 ## List of portfolio projects:
