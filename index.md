@@ -1,7 +1,7 @@
 # Welcome to Grazi Gomes Portfolio
 
 I would appreciate your feedback and feel free to bookmark this page on [editor on GitHub](https://github.com/grazigomes/grazigomes.github.io/edit/master/index.md) to maintain and preview the content for this website in Markdown files.
-![Grazi](profile.jpg)
+![Grazi](profile.JPG)
 
 ## List of portfolio projects:
 
